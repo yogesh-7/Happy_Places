@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Happy Places</string>
+
+    <string name="google_maps_api_key">AIzaSyA-Ew-EcB5r16uPcPLsva01uj3yrvPeJTw</string>
+
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">ADD IMAGE</string>
+    <string name="btn_text_save">SAVE</string>
+
+    <string name="note_text_no_happy_places_found_yet_kindly_add_one">No Happy Places Found Yet. Kindly add one.</string>
+    <string name="image_content_description">image</string>
+
+    <string name="btn_text_view_on_map">VIEW ON MAP</string>
+    <string name="add_place_select_current_location_text">SELECT CURRENT LOCATION</string>
+    <string name="update">UPDATE</string>
+    <string name="your_location_is_off">Your location provider is turned off. Please turn it on.</string>
+    <string name="select_action">Select Action</string>
+    <string name="select_photo_from_gallery">Select photo from gallery</string>
+    <string name="capture_photo_from_camera">Capture photo from camera</string>
+    <string name="edit_happy_place">Edit Happy Place</string>
+    <string name="please_enter_title">Please enter title</string>
+    <string name="please_enter_description">Please enter description</string>
+    <string name="please_select_location">Please select location</string>
+    <string name="please_add_image">Please add image</string>
+    <string name="failed">Failed!</string>
+    <string name="cancel">Cancel</string>
+    <string name="show_rationalD_dalog_for_permissions_msg">It Looks like you have turned off permissions required for this feature. It can be enabled under Application Settings</string>
+    <string name="go_to_settings">GO TO SETTINGS</string>
+</resources>
